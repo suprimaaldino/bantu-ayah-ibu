@@ -1,0 +1,20 @@
+{
+  "missions": [
+    { "id": 1, "name": "Merapikan tempat tidur", "coins": 5 },
+    { "id": 2, "name": "Mencuci piring", "coins": 10 },
+    { "id": 3, "name": "Menyiram tanaman", "coins": 7 },
+    { "id": 4, "name": "Membantu masak", "coins": 12 },
+    { "id": 5, "name": "Membersihkan kamar", "coins": 15 },
+    { "id": 6, "name": "Menyapu lantai", "coins": 8 },
+    { "id": 7, "name": "Menjemur pakaian", "coins": 6 },
+    { "id": 8, "name": "Mengelap meja", "coins": 4 },
+    { "id": 9, "name": "Memberi makan hewan", "coins": 9 },
+    { "id": 10, "name": "Mengambil sampah", "coins": 5 }
+  ],
+  "rewards": [
+    { "id": 1, "name": "1 Jam Nonton YouTube Kids", "coins": 30 },
+    { "id": 2, "name": "Main Game 1 Jam", "coins": 50 },
+    { "id": 3, "name": "Makan Es Krim", "coins": 100 },
+    { "id": 4, "name": "Beli Mainan Baru", "coins": 200 }
+  ]
+}
