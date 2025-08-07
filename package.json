@@ -1,9 +1,15 @@
 {
-  "name": "daily-mission-app",
+  "name": "bantu-ayah-ibu",
+  "homepage": "https://suprimaaldino.github.io/bantu-ayah-ibu",
   "version": "1.0.0",
   "description": "Game misi harian untuk anak-anak",
   "scripts": {
     "frontend": "cd frontend && npm start",
-    "backend": "cd backend && npm start"
+    "backend": "cd backend && npm start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
